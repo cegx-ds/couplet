@@ -1,0 +1,13 @@
+biopython==1.78
+matplotlib==3.4.2
+numba==0.53.1
+numpy==1.19.4
+pandas==1.1.4
+pyparsing==2.4.7
+pysam==0.17.0
+python-dateutil==2.8.2
+pytest==6.2.4
+pyyaml==5.4.1
+scipy==1.5.4
+seaborn==0.11.1
+tqdm==4.62.3

@@ -1,0 +1,4 @@
+# Comment
+first_base,second_base,first_phred,second_phred,correct,incorrect,error_rate,phred
+T,T,37,37,15296191,2471,0.00016151739282820943,37
+T,C,37,37,11498964,5110,0.0004441904667859404,33
